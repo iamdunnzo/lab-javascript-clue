@@ -4,58 +4,58 @@
 
 const suspectsArray = [
     {
-      firstName: 'Courtney',
-      lastName: 'Dunn',
-      occupation: 'Engineer',
-      age: 34,
-      description: 'tall',
-      image: 'some image',
-      color: 'purple'
+      firstName: 'Jacob',
+      lastName: 'Green',
+      occupation: 'Entrepreneur',
+      age: 45,
+      description: 'He has a lot of connections',
+      image: 'https://pbs.twimg.com/profile_images/506787499331428352/65jTv2uC.jpeg',
+      color: 'green'
 
     },
     {
-        firstName: 'Justin',
-        lastName: 'Brown',
-        occupation: 'Teacher',
-        age: 32,
-        description: 'short',
-        image: 'clean cut',
-        color: 'blue'
+        firstName: 'Doctor',
+        lastName: 'Orchid',
+        occupation: 'Scientist',
+        age: 26,
+        description: 'PhD in plant toxicology. Adopted daughter of Mr. Boddy',
+        image: 'http://www.radiotimes.com/uploads/images/Original/111967.jpg',
+        color: 'white'
     },
     {
-        firstName: 'Kristin',
-        lastName: 'Brown',
-        occupation: 'Sales', 
-        age: 29,
-        description: 'tallish',
-        image: 'cute', 
-        color: 'pink'
+        firstName: 'Victor',
+        lastName: 'Plum',
+        occupation: 'Designer', 
+        age: 22,
+        description: 'Billionaire video game designer',
+        image: 'https://66.media.tumblr.com/ee7155882178f73b3781603f0908617c/tumblr_phhxc7EhPJ1w5fh03_540.jpg', 
+        color: 'purple'
     },
     {
-        firstName: 'Kyle',
-        lastName: 'Brown',
-        occupation: 'No job',
-        age: 25,
-        description: 'bum',
-        image: 'ragedy',
-        color: 'green'
-    },
-    {
-        firstName: 'Aaron',
-        lastName: 'Cason',
-        occupation: 'Real Estate',
-        age: 24,
-        description: 'ugly',
-        image: 'scruffy',
+        firstName: 'Kasandra',
+        lastName: 'Scarlet',
+        occupation: 'Actor',
+        age: 31,
+        description: 'She is an A-list movie star with a dark past',
+        image: 'https://www.radiotimes.com/uploads/images/Original/111967.jpg',
         color: 'red'
     },
     {
-        firstName: 'Cameron',
-        lastName: 'Cason',
-        occupation: 'Student',
-        age: 22,
-        description: 'shorty',
-        image: 'eh',
+        firstName: 'Eleanor',
+        lastName: 'Peacock',
+        occupation: 'Socialité',
+        age: 36,
+        description: 'She is from a wealthy family and uses her status and money to earn popularity',
+        image: 'https://metrouk2.files.wordpress.com/2016/07/mrs-peacock.jpg',
+        color: 'blue'
+    },
+    {
+        firstName: 'Jack',
+        lastName: 'Mustard',
+        occupation: 'Retired Football player',
+        age: 62,
+        description: 'He is a former football player who tries to get by on his former glory',
+        image: 'https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/07/04/08/unspecified-3.jpg',
         color: 'yellow'
     }
 ];
@@ -64,49 +64,49 @@ const suspectsArray = [
 
 const roomsArray = [
  {
-    name: 'room 1'
+    name: 'Dining Room'
  },
  {
-    name: 'room 2'
+    name: 'Conservatory'
  },
  {
-    name: 'room 3'
+    name: 'Kitchen'
  },
  {
-    name: 'room 4'
+    name: 'Study'
  },
  {
-    name: 'room 5'
+    name: 'Library'
  },
  {
-    name: 'room 6'
+    name: 'Billiard Room'
  },
  {
-    name: 'room 7'
+    name: 'Lounge'
  },
  {
-    name: 'room 8'
+    name: 'Ballroom'
  },
  {
-    name: 'room 9'
+    name: 'Hall'
  },
  {
-    name: 'room 10'
+    name: 'Spa'
  },
  {
-    name: 'room 11'
+    name: 'Living Room'
  },
  {
-    name: 'room 12'
+    name: 'Observatory'
  },
  {
-    name: 'room 13'
+    name: 'Theater'
  },
  {
-    name: 'room 14'
+    name: 'Guest House'
  },
  {
-    name: 'room 15'
+    name: 'Patio'
  }
 ];
 
@@ -114,40 +114,40 @@ const roomsArray = [
 
 const weaponsArray = [
     {
-        name: 'gun',
-        weight: 2
-    },
-    {
-        name: 'hammer',
-        weight: 3
+        name: 'rope',
+        weight: 10
     },
     {
         name: 'knife',
-        weight: 1
+        weight: 8
     },
     {
-        name: 'sword',
-        weight: 4
-    },
-    {
-        name: 'fork',
-        weight: 1
-    },
-    {
-        name: 'saw',
-        weight: 5
-    },
-    {
-        name: 'brick',
+        name: 'candlestick',
         weight: 2
     },
     {
-        name: 'bat',
-        weight: 6
+        name: 'dumbbell',
+        weight: 30
     },
     {
-        name: 'taser',
-        weight: 1
+        name: 'poison',
+        weight: 2
+    },
+    {
+        name: 'axe',
+        weight: 15
+    },
+    {
+        name: 'bat',
+        weight: 13
+    },
+    {
+        name: 'trophy',
+        weight: 25
+    },
+    {
+        name: 'pistol',
+        weight: 20
     }
 ];
 
